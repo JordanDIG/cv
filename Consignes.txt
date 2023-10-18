@@ -1,0 +1,17 @@
+- CV responsive
+* Hébergé par GitHub (commit)
+- JS, HTML et CSS uniquement
+- UX (Expérience utilisateur)
+  - Hiérarchisation de l'information (strcture)
+  - Les moyens de contact ne d- oivent pas être visible pour l'exercise
+  - Présence de la page GitHub sur le CV
+  - SEO (UI)
+    - Suivre O.Andrieu Ambondance
+- Hiérarchie du site / Structure H1/H2/H3/H4/H5/H6
+- Title
+- Temps de chargement (core web vitals)
+- Validator (W3C)
+
+Faire MARKDOWN AVANT !
+
+- Délai 2 alternance (début 13/09/2023)
